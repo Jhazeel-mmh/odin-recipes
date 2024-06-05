@@ -1,5 +1,31 @@
-.body {
-    background-color: #59f610;
-    color: red;
+body {
+    background-color: #a3e683;
+    color: #fff;
     font-family: "Times New Roman", Times, serif;
+}
+
+.main {
+    background-color: #7bcd48;
+    text-align: center;
+    padding: 1vw;
+    margin: 1vw;
+}
+
+.recipes-nav {
+    padding: 1vw;
+    margin: 1vw;
+}
+
+.recipes-nav li {
+    list-style-type: none;
+}
+
+.recipes-nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.recipes-nav a:hover {
+    text-decoration: underline;
+    color: #447526;
 }
