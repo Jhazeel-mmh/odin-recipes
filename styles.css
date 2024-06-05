@@ -11,19 +11,30 @@ body {
     margin: 1vw;
 }
 
+.img {
+    width: 50vw;
+    height: auto;
+}
+
+
 .recipes-nav {
     padding: 1vw;
     margin: 1vw;
 }
 
+
 .recipes-nav ul {
     list-style-type: none;
+    padding: 0;
+    margin: 0;
 }
+
 
 .recipes-nav a {
     text-decoration: none;
     color: #fff;
 }
+
 
 .recipes-nav a:hover {
     text-decoration: underline;
