@@ -7,8 +7,8 @@ body {
 .main {
     background-color: #7bcd48;
     text-align: center;
-    padding: 1vw;
-    margin: 1vw;
+    padding: 4vw;
+    margin: 8vw;
 }
 
 .img {
@@ -23,7 +23,7 @@ body {
 }
 
 
-.recipes-nav ul {
+.un-list {
     list-style-type: none;
     padding: 0;
     margin: 0;
