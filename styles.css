@@ -16,7 +16,7 @@ body {
     margin: 1vw;
 }
 
-.recipes-nav li {
+.recipes-nav ul {
     list-style-type: none;
 }
 
