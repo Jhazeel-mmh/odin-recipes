@@ -7,7 +7,7 @@ body {
 .main {
     box-sizing: border-box;
     width: 70vw;
-    height: 70vw;
+    height: auto;
     background-color: #7bcd48;
     text-align: center;
     padding: 2vw;
@@ -23,7 +23,7 @@ h1 {
 .img {
     display: block;
     width: 50vw;
-    height: auto;
+    height: 25vw;
     margin: 2vw auto;
 
 }
@@ -41,11 +41,9 @@ h1 {
     margin: 0;
 }
 
-li {
+ol li {
     display: block;
-    margin: 3vw;
-    font-size: 2vw;
-
+    margin: 1vw 0;
 }
 
 .recipes-nav a {
@@ -69,6 +67,7 @@ li {
 }
 
 .footer p {
-    width: 15vw;
+    width: 20vw;
+    height: auto;
     margin: 0 auto;
 }
